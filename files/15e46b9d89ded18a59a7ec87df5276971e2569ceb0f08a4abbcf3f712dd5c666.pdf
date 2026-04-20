@@ -1,0 +1,110 @@
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html lang="en-us">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+	<meta http-equiv="Expires" content="0">
+	<meta name="description" content="TurboCourt - Legal Paperwork Assistance">
+	<meta name="author" content="Catalis">
+	<meta name="ROBOTS" content="0">
+	<link rel="Stylesheet" type="text/css" href="/commonstyle.css?v=1.63">
+	<link href="https://fonts.googleapis.com/css?family=Fira+Sans" rel="stylesheet">
+	<!--script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script-->
+	
+	<link rel="Stylesheet" type="text/css" href="/edpstyle.css?v=1.63">
+<link rel="Stylesheet" type="text/css" href="/state.css?v=1.63">
+
+	<style>
+	.olClose, A.olClose, A.olClose:link, A.olClose:visited, A.olClose:active, A.olClose:hover {color:#fffafa;font-size:0.9em;font-weight:bold;text-decoration:none;}
+	</style>
+	<script type="text/javascript" src="/lib.js?v=1.63"></script>
+	<script type="text/javascript" src="/timerlib.js?v=1.63"></script>
+	<script type="text/javascript" src="/overlib.js?v=1.63"></script>
+	<script type="text/javascript">
+/** overlib vars 
+ * NOTE: we can do this by css
+ */
+var ol_fgcolor = "#FBFACC"; // background of main area of popup
+var ol_bgcolor = "#778899"; // background of title and border of popup
+
+var ol_close = "x"; //  Replaces the text "Close" on close link of popup
+//var ol_closefontclass = "olClose"; // style name for "Close" text
+var ol_closeclick = 1; // enables click on "Close" to close sticky popups
+var ol_closecolor = "#fffafa"; // color of "Close" text
+var ol_closesize = "1em"; // Size of the "Close" text's font
+var ol_closetitle = "Close this message"; // tooltip text on "Close" on close link of popup
+	</script>
+	
+	
+	<title>TurboCourt - Legal Paperwork Assistance - View Court Document</title>
+
+	
+	
+	
+	
+</head>
+<body leftmargin=0 rightmargin=0 topmargin=0 bottommargin=0 marginwidth=0 marginheight=0 class="background">
+<div id="overDiv" style="position:absolute; visibility:hidden; z-index:1000;"></div><script type="text/javascript">document.body.style.cursor = 'wait';</script>
+
+<table border=0 cellpadding=0 cellspacing=0 width="100%" role="presentation" height="95%">
+<tr>
+	<td valign="top" height="99%" width="100%"><a name="top"></a>
+<table border=0 cellpadding=0 cellspacing=5 width="100%" height="100%" role="presentation">
+	<tr>
+		<td height="100%" width="100%" valign="top">
+		<table border=0 cellpadding=0 cellspacing=0 width="100%"  role="presentation">
+		<tr>
+			<td nowrap valign="top" colspan=2 class="pagetitle">View Court Document</td>
+		</tr>
+	    <tr class="popupMain">
+	        <td colspan=2><img src="images/spacer.gif" width=1 height=2 border=0 alt=""></td>
+		</tr>
+		<tr valign="top">
+			<td width="1%" valign="top"><img src="images/spacer.gif" width=10 height=1 border=0 alt=""></td>
+			<td width="99%" valign="top">
+<table cellspacing=0 cellpadding=10 border=0 class="edp-message-w100" role="presentation">
+			<form name="mainform" method="post" target="_top"><!-- tmpl_full_form --><tr>
+				<td valign="top">
+<table border=0 width="100%" cellspacing=0 cellpadding=0 class="dataEntry qq" role="presentation"><tr><td valign="top"><table border=0 width="100%" cellspacing=0 cellpadding=4 class="dataEntry" role="presentation">
+		<tr>
+<td colspan=2 id="td_fldNoDocumentText">We're sorry but the DOCUMENT that you requested CANNOT BE RETRIEVED at this time.</td></tr>
+
+
+		<tr><td colspan=2><span class="caption"><br><a href='javascript:window.close();void(0)'>Close Window</a></span></td></tr>
+</table></td></tr>
+</table>
+<input type="hidden" name="srcde" value="dteNoDocument"><input type="hidden" name="form" value="frmNoDocument"><input type="hidden" name="source" value="scrNoDocumentScreen">
+<table border=0 width="100%" cellspacing=0 cellpadding=5 role="presentation">
+	 		<tr><td width="100%" valign="middle" nowrap></td></tr>
+		</table>
+</td>
+			</tr>
+<!-- store request params to use them in case of errors to return to previous screen-->			
+<input type="hidden" name="x_act" value="actShowExternalDocument"><input type="hidden" name="x_tmstp" value="1776650156364"><input type="hidden" name="x_fld" value="fldGCaseInfoDocName"><input type="hidden" name="x_srcde" value="dteGCaseInfo"><input type="hidden" name="x_source" value="scrGetCaseInfo"><input type="hidden" name="x_form" value="frmGetCaseInfo"><input type="hidden" name="x_ind" value="18"><input type="hidden" name="x_extId" value="pShH9S68N0fm46X5C6opMg%3d%3d"><input type="hidden" name="x_legalCase" value="816046957"><input type="hidden" name="x_requestQueryString" value="act=actShowExternalDocument&amp;tmstp=1776650156364&amp;fld=fldGCaseInfoDocName&amp;srcde=dteGCaseInfo&amp;source=scrGetCaseInfo&amp;form=frmGetCaseInfo&amp;ind=18&amp;extId=pShH9S68N0fm46X5C6opMg%253d%253d&amp;legalCase=816046957">
+</form></table>
+</td>
+		</tr>
+		</table>
+		</td>
+	</tr>
+	</table>
+</td>
+
+</tr>
+<tr>
+	<td valign="bottom" class="bottom-table">
+		<table border=0 cellpadding=5 cellspacing=0 width="100%" role="presentation">
+			<tr>
+				<td valign="bottom"><span class="cpyftr">version 11.2.0&nbsp;&nbsp;&nbsp;l-03&nbsp;&nbsp;&nbsp;</span></td>
+				<td valign="bottom" align="center"><span class="cpyftr">&copy;2026 Catalis | All Rights Reserved | Catalis&reg; and the arrow design mark are registered trademarks of Catalis, LP in the European Union and the United Kingdom.</span></td>
+				</tr>
+		</table>
+	</td>
+</tr>
+</table>
+<script type="text/javascript">document.body.style.cursor = 'auto';</script>
+<!-- START TWOFA2 -->
+<!-- END TWOFA2 -->
+<script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script> 
+</body>
+</html>
